@@ -40,7 +40,7 @@ Figure 1. Example of an input grid and the methodology of longitudinal_DEM.m. By
 ![image](https://user-images.githubusercontent.com/95195098/166154737-9c182bb1-41fe-41df-af3d-790799e45a56.png) <br/>
 Figure 2. Zoomed in image of Figure 1, showing the centerline (black) and cross-sectional lines (red) over a river/estuary (Charleston Harbor and Ashley River) <br/><br/>
 ![image](https://user-images.githubusercontent.com/95195098/166155380-acd0f6c1-d610-460f-82dc-64d04b8c5e8c.png) <br/>
-Figure 3. Example outputs. Left figure shows output from example with downsized DEM data (downsized for uploading purposes). Right figure shows output with full DEM (data not available in example).  
+Figure 3. Example outputs. Left figure shows output from example (longitudinal_DEM_example.m found in repository) with downsized DEM data (downsized for uploading purposes). Right figure shows output with full DEM (data not available in example).  
 <br/>
 <br/>
 <br/>
