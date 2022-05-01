@@ -1,13 +1,14 @@
 % example code for longitudinal_DEM function
 % disclaimer: the DEM data used here has been downsized for uploading purposes 
 % so the figure is slightly distorted
+% download AshleyDEMshort.mat and centerline_UTM.mat from repository
 
 load AshleyDEMshort.mat % this contains x, y, and grid from DEM, UTM coordinates
 DEMx=x2;
 DEMy=y2;
 DEMgrid=z2;
 
-load centerline_Lat_Lon_Ashley_River.mat % this contains the coordinates of the centerline in UTM
+load centerline_UTM.mat % this contains the coordinates of the centerline in UTM
 % Centerline can be created in Google Earth Pro by drawing a path through
 % the center of a river (Ashley River in this case).
 
